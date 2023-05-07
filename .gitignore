@@ -31,7 +31,6 @@
 .pub/
 /build/
 pubspec.lock
-/navigation_utils
 
 # Web related
 lib/generated_plugin_registrant.dart
